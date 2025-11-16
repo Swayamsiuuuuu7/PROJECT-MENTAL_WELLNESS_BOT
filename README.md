@@ -40,9 +40,19 @@ It detects sentiment, responds interactively, handles greetings, remembers your 
 	•	U. Abhishek – 1/24/SET/BCS/347
 	•	Ria Singh – 1/24/SET/BCS/350
 	•	Aayush Bhushan – 1/24/SET/BCS/352
+	
 ⸻
 
 📌 Future Scope
 	•	Add speech-to-text
 	•	Add LLM-based responses
 	•	Add professional support API
+
+⸻
+ 📷 Screenshots
+
+ App Start
+![App Start](screenshot_start.png)
+
+ Crisis Detection
+![Crisis Detection](screenshot_crisis.png)
