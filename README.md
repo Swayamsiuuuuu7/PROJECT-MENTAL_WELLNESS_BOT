@@ -1,58 +1,96 @@
-Mental Wellness Support Bot
+# 🧠 Mental Wellness Support Bot
 
-A simple Python-based mental wellness chatbot that uses NLP, VADER Sentiment Analysis, and a Tkinter desktop UI.
-It detects sentiment, responds interactively, handles greetings, remembers your name, and identifies crisis keywords.
+A simple **Python-based Mental Wellness Chatbot** designed to provide basic emotional support through interactive conversations.
+The bot uses **Natural Language Processing (NLP)**, **VADER Sentiment Analysis**, and a **Tkinter Desktop UI** to detect emotions, respond intelligently, and identify crisis-related messages.
 
-⸻
+---
 
-✨ Features
-	•	Tkinter desktop UI (no browser)
-	•	NLP Keyword extraction
-	•	VADER Sentiment Analysis
-	•	Crisis detection & warning
-	•	Greeting detection (hi, hello, hlo, hey)
-	•	Happy keyword detection
-	•	Name memory
-	•	Typing simulation
-	•	Quick replies
-	•	Save chat as .txt
+## ✨ Features
 
-⸻
+* 💻 Tkinter Desktop GUI (No browser required)
+* 😊 Sentiment Analysis using VADER
+* 🧾 NLP Keyword Extraction
+* ⚠️ Crisis Detection & Warning Alerts
+* 👋 Greeting Detection (`hi`, `hello`, `hlo`, `hey`)
+* 😄 Happy Mood Detection
+* 🧠 Remembers User Name
+* ⌨️ Typing Simulation for Natural Feel
+* ⚡ Quick Reply Buttons
+* 💾 Save Chat History as `.txt`
 
-🧠 Technologies Used
-	•	Python
-	•	Tkinter
-	•	NLTK
-	•	VADER Sentiment Analyzer
-	•	Regex (keyword detection)
+---
 
-⸻
+## 🧠 Technologies Used
 
-📂 How to Run
-  • pip install nltk
-  • python3 mental_bot.py
-  
-⸻
+* Python
+* Tkinter
+* NLTK
+* VADER Sentiment Analyzer
+* Regex (Keyword Detection)
 
-🎯 Project Members
-	•	Swayam Arora – 1/24/SET/BCS/349
-	•	Ronit Sharma – 1/24/SET/BCS/348
-	•	U. Abhishek – 1/24/SET/BCS/347
-	•	Ria Singh – 1/24/SET/BCS/350
-	•	Aayush Bhushan – 1/24/SET/BCS/352
-	
-⸻
+---
 
-📌 Future Scope
-	•	Add speech-to-text
-	•	Add LLM-based responses
-	•	Add professional support API
+## 📂 Installation & Run
 
-⸻
- 📷 Screenshots
+### Step 1: Install Required Library
 
- App Start
+```bash
+pip install nltk
+```
+
+### Step 2: Run the Project
+
+```bash
+python3 mental_bot.py
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 App Start
+
 ![App Start](screenshot_start.png)
 
- Crisis Detection
+### ⚠️ Crisis Detection
+
 ![Crisis Detection](screenshot_crisis.png)
+
+---
+
+## 🎯 Project Members
+
+* Swayam Arora – 1/24/SET/BCS/349
+* Ronit Sharma – 1/24/SET/BCS/348
+* U. Abhishek – 1/24/SET/BCS/347
+* Ria Singh – 1/24/SET/BCS/350
+* Aayush Bhushan – 1/24/SET/BCS/352
+
+---
+
+## 📌 Future Scope
+
+* 🎤 Add Speech-to-Text Support
+* 🤖 Add LLM-Based Smart Responses
+* 📞 Add Professional Mental Health Support API
+* 🌍 Add Multi-language Support
+* 📊 Mood Tracking Dashboard
+
+---
+
+## 🤝 Contribution
+
+Contributions, suggestions, and improvements are welcome.
+Feel free to fork this repository and create a pull request.
+
+---
+
+## 📜 License
+
+This project is for educational purposes.
+
+---
+
+## 💙 Note
+
+This chatbot provides **basic emotional support only** and is **not a replacement for professional mental health care**.
