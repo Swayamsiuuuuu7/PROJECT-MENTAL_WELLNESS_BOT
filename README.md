@@ -93,4 +93,4 @@ This project is for educational purposes.
 
 ## 💙 Note
 
-This chatbot provides **basic emotional support only** and is **not a replacement for professional mental health care**.
+This chatbot provides **basic emotional support only** and is **not a replacement for professional mental health care**. .
